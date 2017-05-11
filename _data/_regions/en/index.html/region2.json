@@ -1,1 +1,6 @@
-[{"_template":"href","url":"qwe","name":"werty"}]
+[
+  {
+    "_template": "href",
+    "content": "<p>ABC</p>"
+  }
+]
