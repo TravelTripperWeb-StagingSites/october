@@ -1,1 +1,6 @@
-[{"_template":"color_text","color":"red","text":"qwertyu","rendered_height":500},{"_template":"href","name":"h","url":"eee"},{"_template":"html","content":"<p>Oh hi Alex</p>","rendered_height":500},{"_template":"html","content":"<p>eee</p>"}]
+[
+  {
+    "_template": "color_text",
+    "content": ""
+  }
+]
